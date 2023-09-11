@@ -1,0 +1,6 @@
+\begin{tabular}{lrr}
+ & notes & patients \\
+train & 4230 & 2548 \\
+dev & 1579 & 1014 \\
+test & 1593 & 1023 \\
+\end{tabular}

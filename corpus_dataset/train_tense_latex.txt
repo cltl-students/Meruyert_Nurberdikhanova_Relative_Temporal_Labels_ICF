@@ -1,0 +1,7 @@
+\begin{tabular}{lrrr}
+ & past & now & future \\
+- & 47976 & 143717 & 28782 \\
+infinitive & 836 & 3052 & 1057 \\
+past_tense & 1924 & 1427 & 182 \\
+present_tense & 1485 & 8372 & 1421 \\
+\end{tabular}

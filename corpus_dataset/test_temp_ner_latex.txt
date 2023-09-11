@@ -1,0 +1,6 @@
+\begin{tabular}{lrrr}
+ & past & now & future \\
+DATE & 108 & 363 & 57 \\
+TIME & 15 & 68 & 24 \\
+not_temp_ner & 6119 & 19326 & 3669 \\
+\end{tabular}

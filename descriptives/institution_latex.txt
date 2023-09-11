@@ -1,0 +1,6 @@
+\begin{tabular}{lrr}
+ & amc & vumc \\
+train & 11489 & 7914 \\
+dev & 1420 & 1005 \\
+test & 1393 & 1033 \\
+\end{tabular}

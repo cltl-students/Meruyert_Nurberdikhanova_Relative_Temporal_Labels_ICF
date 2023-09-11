@@ -1,0 +1,7 @@
+\begin{tabular}{lrrr}
+ & past & now & future \\
+- & 0.000000 & 0.000000 & 652.000000 \\
+infinitive & 0.000000 & 0.000000 & 17.000000 \\
+past_tense & 0.000000 & 0.000000 & 4.000000 \\
+present_tense & 0.000000 & 0.000000 & 40.000000 \\
+\end{tabular}

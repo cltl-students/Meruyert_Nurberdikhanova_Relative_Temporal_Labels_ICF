@@ -1,0 +1,4 @@
+	Jenia	past	past_perc	now	now_perc	future	future_perc
+train	242291	4199	1.73	12496	5.16	2708	1.12
+dev	21742	525	2.41	1562	7.18	338	1.55
+test	22082	525	2.38	1562	7.07	339	1.54

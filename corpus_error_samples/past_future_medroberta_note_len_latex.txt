@@ -1,0 +1,8 @@
+\begin{tabular}{lrrr}
+ & past & now & future \\
+mean & 110.663043 & nan & nan \\
+median & 103.000000 & nan & nan \\
+std & 55.120093 & nan & nan \\
+min & 16.000000 & nan & nan \\
+max & 239.000000 & nan & nan \\
+\end{tabular}

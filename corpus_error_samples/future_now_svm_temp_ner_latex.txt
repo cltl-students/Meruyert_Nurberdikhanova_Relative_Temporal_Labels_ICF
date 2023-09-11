@@ -1,0 +1,6 @@
+\begin{tabular}{lrrr}
+ & past & now & future \\
+DATE & 0.000000 & 0.000000 & 17.000000 \\
+TIME & 0.000000 & 0.000000 & 7.000000 \\
+not_temp_ner & 0.000000 & 0.000000 & 1340.000000 \\
+\end{tabular}

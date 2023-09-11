@@ -1,0 +1,6 @@
+\begin{tabular}{lrrrrrrr}
+ & Jenia & past & past_perc & now & now_perc & future & future_perc \\
+train & 242291 & 4199 & 1.730000 & 12496 & 5.160000 & 2708 & 1.120000 \\
+dev & 21742 & 525 & 2.410000 & 1562 & 7.180000 & 338 & 1.550000 \\
+test & 22082 & 525 & 2.380000 & 1562 & 7.070000 & 339 & 1.540000 \\
+\end{tabular}
